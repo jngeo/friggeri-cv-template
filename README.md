@@ -1,0 +1,1 @@
+# friggeri-cv-template
