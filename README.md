@@ -8,6 +8,12 @@ How to use:
 - compile and run with Latex
 - Optional: should be able to run with online latex compiler (sharelatex)
 
+Sample Output:
+
+<p align="center">
+  <img src="https://jngeo.github.io/friggeri-cv-template/jim_cv.jpg?raw=true" alt="Photo" style="width: 600px;"/>
+</p>
+
 
 License
 Copyright (C) 2012, Adrien Friggeri
