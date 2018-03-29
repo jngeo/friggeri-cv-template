@@ -11,7 +11,7 @@ How to use:
 Sample Output:
 
 <p align="center">
-  <img src="https://jngeo.github.io/friggeri-cv-template/jim_cv.jpg?raw=true" alt="Photo" style="width: 600px;"/>
+  <img src="https://github.com/jngeo/friggeri-cv-template/blob/master/jim_cv.jpg?raw=true" alt="Photo" style="width: 600px;"/>
 </p>
 
 
