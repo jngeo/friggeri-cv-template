@@ -1,7 +1,7 @@
 # friggeri-cv-template
 
 About
-Latest version of my CV as inspired by the Friggeri-CV latext format. Major edit done by Jimson Ngeo and Lorlynn Mateo.
+Latest version of my CV as inspired by the Friggeri-CV latext format. This is a style template for your curriculum written in LaTex. Major edit done by Jimson Ngeo and Lorlynn Mateo.
 
 How to use:
 - download the whole folder
